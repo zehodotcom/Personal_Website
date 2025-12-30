@@ -20,6 +20,7 @@ As a cybersecurity professional, I have implemented the following controls on th
 * **Design:** Responsive Design focused on User Experience (UX).
 
 ## 📂 Repository Structure
+```text
 ├── _headers            # Security rules (CSP, HSTS, X-Frame-Options)
 ├── index.html          # Main website structure
 ├── netlify.toml        # Deployment and redirection configuration
